@@ -1,7 +1,7 @@
 # Project Overview
-Project Name: Webby HTTP Server
+Project Name: Web Server
 
-Description: Webby HTTP Server is a basic web server implemented in C++ from scratch without any external libraries for educational purposes. It serves static HTML, CSS, and image files.
+Description: Web Server is a basic web server implemented in C++ from scratch without any external libraries for educational purposes. It serves static HTML, CSS, and image files.
 
 ## Features
 
@@ -25,8 +25,8 @@ Description: Webby HTTP Server is a basic web server implemented in C++ from scr
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Aryandev12/webby-http-server.git
-    cd webby-http-server
+    git clone https://github.com/rajanup0054/HTTP-WEB-SERVER
+    cd HTTP-WEB-SERVER
     ```
 
 2. **Compile the server:**
@@ -103,13 +103,6 @@ h1 {
     border: 2px solid #2c3e50;
     border-radius: 5px;
 }
-```
-## OUTPUT 
-![webby](https://github.com/Aryandev12/webby-http-server/assets/123394855/a5d0689e-5fdf-49ea-82aa-c60b6fe7ff1e)
-
-## Contributing
-
-Contributions are welcome! If you find a bug or have a feature request, please open an issue. Feel free to fork the repository and submit a pull request with your improvements.
 
 
 
